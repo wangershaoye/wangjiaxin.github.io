@@ -11,54 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in The University of Osaka, 2025, Supervisor: Satoshi Nishida
+* M.S. in Toyama University, 2022, Supervisor: Zheng Tang
+* B.S. in Changsha University of Science and Technology, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2025: Technical Researcher
+  * Center for Information and Neural Networks (CiNet), Advanced ICT Research Institute, NICT, Japan.
+  * Supervisor: Satoshi Nishida
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2017: Machine Vision Engineer
+  * SMD Automatization
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2016: QMC Intern
+  * Robert Bosch
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Brain image processing(MRI&EEG)
+* Coding (Python, Matlab, C#)
+* Machine Learning
+* Electronic Circuit Design
+* Chinese (mother tongue), Japanese (fluent), English (fluent), German (only a little)
+
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
